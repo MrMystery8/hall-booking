@@ -1,0 +1,2 @@
+KeyaanMinhas;AI with Python;Learning AI by using Python Language;Hall007;150;09/01/24;10/00;15/00;1009
+ay1;Birthday;Small party with guests and decor;3674;20;12/12/25;10/00;14/00;1013
